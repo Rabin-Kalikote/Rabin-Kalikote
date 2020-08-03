@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Rabin-Kalikote/Rabin-Kalikote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +14,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Rabin Kalikote
+# Rabin Kalikote 👋
 ### I'm the best friend of Computer & Programs
+
+<p>
+  <a href="https://github.com/Rabin-Kalikote?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Rabin-Kalikote?style=for-the-badge">
+  </a>
+  <a href="https://twitter.com/KalikoteRabin">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/KalikoteRabin?style=for-the-badge">
+  </a>
+  <a href="https://youtube.com/thecodingbrain">
+    <img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/mNGZ3YtL7Y8?style=for-the-badge">
+  </a>
+</p>
 
 Hey, I'm Rabin. I love Web Design/Development, Programming, Art/Literature and YouTube Vlogging. ['The Coding Brain'](https://www.youtube.com/thecodingbrain) channel on YouTube, 'Jindagiko Baato' in the field of literature and art, ['Ask Mattrab'](https://www.askmattrab.com) in the field of Web Design/Development are some of my works which make me feel proud.
 
