@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Rabin Kalikote 👋
+
+# RABIN KALIKOTE
 ### I'm the best friend of Computer & Programs
 
 <p>
