@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://github.com/Rabin-Kalikote?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Rabin-Kalikote?style=for-the-badge">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Rabin-Kalikote?style=social">
   </a>
   <a href="https://twitter.com/KalikoteRabin">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/KalikoteRabin?style=for-the-badge">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/KalikoteRabin?style=social">
   </a>
   <a href="https://youtube.com/thecodingbrain">
-    <img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/mNGZ3YtL7Y8?style=for-the-badge">
+    <img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/mNGZ3YtL7Y8?style=social">
   </a>
 </p>
 
