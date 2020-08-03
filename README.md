@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 
 
-## RABIN KALIKOTE
 ### I'm the best friend of Computer & Programs
 
 <p>
