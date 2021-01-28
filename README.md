@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/KalikoteRabin?style=social">
   </a>
   <a href="https://youtube.com/thecodingbrain" target="_blank">
-    <img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/mNGZ3YtL7Y8?style=social">
+    <img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/novOo2cjWbs?style=social">
   </a>
 </p>
 
