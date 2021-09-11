@@ -29,6 +29,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-Hey, I'm Rabin. I love Web Design/Development, Programming, Art/Literature and YouTube Vlogging. ['The Coding Brain'](https://www.youtube.com/thecodingbrain) channel on YouTube, 'Jindagiko Baato' in the field of literature and art, ['Ask Mattrab'](https://www.askmattrab.com) in the field of Web Design/Development are some of my works which make me feel proud.
+Hey, I'm Rabin. I love Web Design/Development, Programming, Art/Literature and YouTube Vlogging. ['Friend of Computer'](https://www.youtube.com/friendofcomputer) channel on YouTube, 'Jindagiko Baato' in the field of literature and art, ['Ask Mattrab'](https://www.askmattrab.com) in the field of Web Design/Development are some of my works which make me feel proud.
 
 Starting life from the beautiful village of Nepal, I could celebrate and connect to nature. Learning different dimensions of Computer Science, I have discovered the magic it can play for the betterment of people, society, and country. Therefore, my goal is to fulfill my childhood dream of contributing to people's lives and making them happy through the use of Computer and Technology.
