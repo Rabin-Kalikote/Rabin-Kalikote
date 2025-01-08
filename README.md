@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 I write programs **to slove problems.**
 
-Founder & CEO · Software Engineer · Passionate Teacher · Honors Student · Coding Club President · Tech YouTuber · Author & Poet · Comedian
+Founder & CEO · Software Engineer · Passionate Teacher · Honors Student · Coding Club President · Tech YouTuber · Comedian
