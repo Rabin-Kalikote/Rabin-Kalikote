@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-# I write programs to slove problems.
-['www.RabinKalikote.com'](https://www.rabinkalikote.com)
+<center>
+  ## I write programs to slove problems.
+  ['www.RabinKalikote.com'](https://www.rabinkalikote.com)
+</center>
